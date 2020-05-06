@@ -8,7 +8,7 @@ const HeroText = props => {
        
     )
 }
-
+ 
 const styles = StyleSheet.create({
 
     headerText: {
